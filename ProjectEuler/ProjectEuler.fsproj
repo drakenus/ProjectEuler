@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="FibonacciGenerator.fs" />
+    <Compile Include="PalindromeOperations.fs" />
+    <Compile Include="PrimeOperations.fs" />
+    <Compile Include="Problem2.fs" />
+    <Compile Include="Problem1.fs" />
+    <Compile Include="Problem3.fs" />
+  </ItemGroup>
+
+</Project>
